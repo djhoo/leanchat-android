@@ -1,4 +1,5 @@
-bin
-gen
-*.apk
-lint-result.xml
+*.iml
+build/
+.idea/
+.gradle/
+.gitignore
